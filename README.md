@@ -1,6 +1,13 @@
-DIGI-L&F is a modernized, digital logistics solution for campus-wide lost and found management. Built specifically for kiosk hardware, it bridges the gap between traditional manual logs and complex asset management systems. By leveraging a high-contrast "Cyber-Glass" interface and integrated visual verification (Face ID capture), it creates a transparent audit trail that deters false claims and accelerates the return of items to their rightful owners.
+# 🔍 DIGI-L&F (Digital Lost & Found)
 
+DIGI-L&F is a modernized, kiosk-based logistics solution designed to revolutionize campus-wide lost and found management. 
 
-<img width="250" height="250" alt="logo2" src="https://github.com/user-attachments/assets/319d2180-2ea2-493e-a0da-6ebb091ca021" />
-<img width="230" height="230" alt="logo1" src="https://github.com/user-attachments/assets/103e44cc-bcb5-47a0-941c-b46099d8252b" />
-<img width="230" height="230" alt="logo3" src="https://github.com/user-attachments/assets/59bd97ac-1974-4a51-b006-604f22621bd7" />
+It bridges the gap between unreliable manual logbooks and overly complex asset management software, providing a streamlined, hardware-ready system for high-traffic environments. 
+
+By integrating visual verification—specifically face capture upon claiming—DIGI-L&F creates a transparent, unalterable audit trail that deters fraudulent claims and accelerates the safe return of items to their rightful owners.
+
+### ✨ Core Advantages
+* **Kiosk-Optimized:** Built specifically for deployment on campus hardware stations.
+* **Visual Verification:** Integrated facial capture creates a strict audit trail for every claimed item.
+* **Fraud Deterrent:** Transparent logging significantly reduces false or malicious claims.
+* **Streamlined Logistics:** Moves campus security away from manual paper logs into a searchable digital database.
